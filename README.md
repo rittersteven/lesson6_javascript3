@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 3, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Steven Ritter)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Complete a photo gallery application with interactive buttons which allow the preview of multiple pictures.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://rittersteven.github.io/lesson6_javascript3/index.html
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. JavaScript treats every element on a webpage as a set of related components which are called objects.
+2. The Document object is the most important, containing all web page elements.
+3. Other important objects are History, which maintains an opened documents history list or the Screen object, which obtains information about the display screen size, resolution or color depth.
